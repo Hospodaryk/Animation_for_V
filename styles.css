@@ -65,11 +65,9 @@ body {
   gap: 25px;
 }
 
-.kalnia-glaze-h5 {
-  font-family: "Kalnia Glaze", serif;
+.eb-garamond-h5 {
+  font-family: "EB Garamond", serif;
   font-optical-sizing: auto;
-  font-weight: 500;
+  font-weight: 400;
   font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
 }
